@@ -2,9 +2,19 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "adamwadolowski.github.io",
+    "title": "@adam",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "Dr. Adam Wądołowski Intern at Datacation Econometrics student at Erasumus University\n\n\n\n\n\ndata engineering\n\n\nstatistics\n\n\noptimisation\n\n\ndata science\n\n\ntime series\n\n\nmachine learning applications\n\n\nvisualisations\nHello 👋\nWelcome to my website, feel free to explore!",
+    "crumbs": [
+      "🏡 Home"
+    ]
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "@adam",
+    "section": "About me",
+    "text": "About me\n\nI am an intern at Datacation where I fulfill duties of a Data Science Consultant.\nI work with HERAS on predicting the time of components’ failure in their products to prevent disruptions in their services.\nI am passionate about predictive models and, since recently, webscraping. You can check out my webscraping project here.\nI am in the final year of my Bachelor in Econometrics at the Erasmus University Rotterdam.",
     "crumbs": [
       "🏡 Home"
     ]
