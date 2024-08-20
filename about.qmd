@@ -7,6 +7,6 @@ title: "About me"
 
 - I work with [HERAS](https://export.heras.com/) on predicting the time of components' failure in their products to prevent disruptions in their services.
 
-- I am passionate about predictive models and, since recently, webscraping. You can check out my webscraping project [here](https://adamwadolowski.github.io/spotify-playlists-EDA/).
+- I am passionate about predictive models and, since recently, web scraping. You can check out my webscraping project [here](https://adamwadolowski.github.io/spotify-playlists-EDA/).
 
 - I am in the final year of my Bachelor in Econometrics at the [Erasmus University Rotterdam](https://www.eur.nl/en). 
