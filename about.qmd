@@ -12,7 +12,7 @@ title: "@adam"
     <figcaption>
         <strong>Dr.&nbsp;<span><a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva" target="_blank" class="external">Adam Wądołowski</a></span></strong> 
         <br/>Intern at <a href="https://www.datacation.nl/en/" target="_blank" class="external">Datacation</a>
-        <br/>Econometrics student at <a href="https://www.eur.nl/en" target="_blank" class="external">Datacation</a>
+        <br/>Econometrics student at <a href="https://www.eur.nl/en" target="_blank" class="external">Erasumus University</a>
     </figcaption>
 </figure>
 
