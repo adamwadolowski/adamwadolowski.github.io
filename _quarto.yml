@@ -4,6 +4,8 @@ project:
   output-dir: _output
   render:
     - "index.qmd"
+    - "about.qmd"
+    - "CV.qmd"
 
 format:
   html: 
@@ -26,6 +28,10 @@ website:
     contents:
       - text: "🏡 Home"
         href: index.qmd
+      - text: "😀 About me"
+        href: about.qmd
+      - text: "📄 CV"
+        href: CV.qmd
     tools:
       - icon: github
         text: Github
