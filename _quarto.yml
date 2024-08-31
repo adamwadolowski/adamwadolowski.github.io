@@ -6,6 +6,7 @@ project:
     - "index.qmd"
     - "about.qmd"
     - "CV.qmd"
+    - "projects.qmd"
 
 format:
   html: 
@@ -32,6 +33,9 @@ website:
         href: about.qmd
       - text: "📄 CV"
         href: CV.qmd
+      - text: " Projects"
+        href: projects.qmd
+        
     tools:
       - icon: github
         text: Github
