@@ -1,12 +1,22 @@
 [
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This section is not written yet. Come and visit some time in the future!",
+    "text": "Here you can find a list of projects I am currently busy with or have already finished.",
     "crumbs": [
-      "📄 CV"
+      " Projects"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am an intern at Datacation where I fulfill duties of a Data Science Consultant.\nI work with HERAS on predicting the time of components’ failure in their products to prevent disruptions in their services.\nI am passionate about predictive models and, since recently, web scraping. You can check out my webscraping project here.\nI am in the final year of my Bachelor in Econometrics at the Erasmus University Rotterdam.",
+    "crumbs": [
+      "😀 About me"
     ]
   },
   {
@@ -20,13 +30,13 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
     "section": "",
-    "text": "I am an intern at Datacation where I fulfill duties of a Data Science Consultant.\nI work with HERAS on predicting the time of components’ failure in their products to prevent disruptions in their services.\nI am passionate about predictive models and, since recently, web scraping. You can check out my webscraping project here.\nI am in the final year of my Bachelor in Econometrics at the Erasmus University Rotterdam.",
+    "text": "This section is not written yet. Come and visit some time in the future!",
     "crumbs": [
-      "😀 About me"
+      "📄 CV"
     ]
   }
 ]

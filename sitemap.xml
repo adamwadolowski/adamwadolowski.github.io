@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://adamwadolowski.github.io/CV.html</loc>
-    <lastmod>2024-08-31T13:32:39.829Z</lastmod>
-  </url>
-  <url>
-    <loc>https://adamwadolowski.github.io/index.html</loc>
-    <lastmod>2024-08-31T13:32:39.845Z</lastmod>
+    <loc>https://adamwadolowski.github.io/projects.html</loc>
+    <lastmod>2024-08-31T13:34:34.734Z</lastmod>
   </url>
   <url>
     <loc>https://adamwadolowski.github.io/about.html</loc>
-    <lastmod>2024-08-31T13:32:39.841Z</lastmod>
+    <lastmod>2024-08-31T13:34:34.730Z</lastmod>
+  </url>
+  <url>
+    <loc>https://adamwadolowski.github.io/index.html</loc>
+    <lastmod>2024-08-31T13:34:34.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://adamwadolowski.github.io/CV.html</loc>
+    <lastmod>2024-08-31T13:34:34.718Z</lastmod>
   </url>
 </urlset>
