@@ -33,9 +33,9 @@ website:
         href: about.qmd
       - text: "📄 CV"
         href: CV.qmd
-      - text: " Projects"
+      - text: "💼 Projects"
         href: projects.qmd
-        
+
     tools:
       - icon: github
         text: Github
