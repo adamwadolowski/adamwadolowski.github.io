@@ -34,7 +34,97 @@
     "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "This section is not written yet. Come and visit some time in the future!",
+    "text": "I am a motivated and enthusiastic individual with a strong interest in modelling, quantitative research and data analysis. At present, I am looking for exposure to these sectors to see what the best fit for me is and to choose my future path accordingly.",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "CV.html#datacation-data-science-consultant-intern",
+    "href": "CV.html#datacation-data-science-consultant-intern",
+    "title": "CV",
+    "section": "Datacation, Data Science Consultant Intern",
+    "text": "Datacation, Data Science Consultant Intern\n\nSept 2024 – present\nAmsterdam, The Netherlands\nContributed to a computer vision project for KLM’s catering services\nDeveloped an algorithm to compare current public tenders with historical data to give insights into appropriate bidding strategy",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "CV.html#erasmus-school-of-economics-teaching-assistant",
+    "href": "CV.html#erasmus-school-of-economics-teaching-assistant",
+    "title": "CV",
+    "section": "Erasmus School of Economics, Teaching Assistant",
+    "text": "Erasmus School of Economics, Teaching Assistant\n\nSept 2023 – present\nRotterdam, The Netherlands\nCourses taught: Mathematical Analysis, Linear Algebra I and II, Mathematical Methods, Markov Processes, Data Structures and Algorithms",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "CV.html#erasmus-school-of-economics-research-assistant",
+    "href": "CV.html#erasmus-school-of-economics-research-assistant",
+    "title": "CV",
+    "section": "Erasmus School of Economics, Research Assistant",
+    "text": "Erasmus School of Economics, Research Assistant\n\nSept 2024 – present\nRotterdam, The Netherlands\nExclusively for excellent students of Economics faculty\nI assist dr. Flavius Frasincar in his research",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "CV.html#erasmus-university-rotterdam-bsc-in-econometrics-and-operations-research",
+    "href": "CV.html#erasmus-university-rotterdam-bsc-in-econometrics-and-operations-research",
+    "title": "CV",
+    "section": "Erasmus University Rotterdam, BSc in Econometrics and Operations Research",
+    "text": "Erasmus University Rotterdam, BSc in Econometrics and Operations Research\n\nSept 2022 – present\nRotterdam, The Netherlands\nGPA: 8.9 / 10\nSkills: Linear and Non-linear Optimization, Simulations, Combinatorial Optimization, Multivariate Statistics, Markov Processes, Time Series Analysis",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "CV.html#london-school-of-economics-data-engineering",
+    "href": "CV.html#london-school-of-economics-data-engineering",
+    "title": "CV",
+    "section": "London School of Economics, Data Engineering",
+    "text": "London School of Economics, Data Engineering\n\nJuly 2024 – Aug 2024\nLondon, UK\nFinal grade: A+\nSkills: Web scraping, Data Cleaning & Preprocessing, Data Visualization",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "CV.html#erasmus-school-of-economics-bachelor-honours-class",
+    "href": "CV.html#erasmus-school-of-economics-bachelor-honours-class",
+    "title": "CV",
+    "section": "Erasmus School of Economics, Bachelor Honours Class",
+    "text": "Erasmus School of Economics, Bachelor Honours Class\n\nSept 2023 – June 2024\nRotterdam, The Netherlands\nExclusively for 24 best performing students of Economics faculty\nFinal paper: “Financial Networks: Inspecting Effects of Topological Features on Stock Overreaction Using Graph Machine Learning”",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "CV.html#chicago-university-fintech",
+    "href": "CV.html#chicago-university-fintech",
+    "title": "CV",
+    "section": "Chicago University, Fintech",
+    "text": "Chicago University, Fintech\n\nJan 2022 – Feb 2022\nChicago, USA\nDiscussed effects of blockchain technology on financial markets",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "CV.html#spotify-pop-playlists-exploration",
+    "href": "CV.html#spotify-pop-playlists-exploration",
+    "title": "CV",
+    "section": "Spotify Pop Playlists Exploration",
+    "text": "Spotify Pop Playlists Exploration\n\ngithub repository\nCollected, cleaned and stored in a relational database playlists data collected from Spotify API. Using the grammar of graphics concepts, I made visualizations of interesting findings\nTools Used: pandas, SQL, lets-plot, Spotify API",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "CV.html#imc-prosperity-challange",
+    "href": "CV.html#imc-prosperity-challange",
+    "title": "CV",
+    "section": "IMC Prosperity Challange",
+    "text": "IMC Prosperity Challange\n\nIn a team of 5, we developed a trading strategy based on the analysis of historical data and the order book\nWe secured 281st place out of 9 139 teams, positioning ourselves in the top 3% of all participants",
     "crumbs": [
       "📄 CV"
     ]
