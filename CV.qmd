@@ -3,4 +3,70 @@ title: "CV"
 ---
 
 
-This section is not written yet. Come and visit some time in the future!
+# Who Am I
+
+I am a motivated and enthusiastic individual with a strong interest in modelling, quantitative research and data analysis. At present, I am looking for exposure to these sectors to see what the best fit for me is and to choose my future path accordingly.
+
+# Experience
+
+## Datacation, Data Science Consultant Intern
+
+- Sept 2024 – present
+- Amsterdam, The Netherlands
+- Contributed to a computer vision project for KLM's catering services
+- Developed an algorithm to compare current public tenders with historical data to give insights into appropriate bidding strategy
+
+## Erasmus School of Economics, Teaching Assistant
+
+- Sept 2023 – present
+- Rotterdam, The Netherlands
+- Courses taught: Mathematical Analysis, Linear Algebra I and II, Mathematical Methods, Markov Processes, Data Structures and Algorithms
+
+## Erasmus School of Economics, Research Assistant
+
+- Sept 2024 – present
+- Rotterdam, The Netherlands
+- Exclusively for excellent students of Economics faculty
+- I assist [dr. Flavius Frasincar](https://scholar.google.nl/citations?user=fzsYCecAAAAJ&hl=en) in his research
+
+# Education
+
+## Erasmus University Rotterdam, BSc in Econometrics and Operations Research
+
+- Sept 2022 – present
+- Rotterdam, The Netherlands
+- GPA: 8.9 / 10
+- Skills: Linear and Non-linear Optimization, Simulations, Combinatorial Optimization, Multivariate Statistics, Markov Processes, Time Series Analysis
+
+## London School of Economics, Data Engineering
+
+- July 2024 – Aug 2024
+- London, UK
+- Final grade: A+
+- Skills: Web scraping, Data Cleaning & Preprocessing, Data Visualization
+
+## Erasmus School of Economics, Bachelor Honours Class
+
+- Sept 2023 – June 2024
+- Rotterdam, The Netherlands
+- Exclusively for 24 best performing students of Economics faculty
+- Final paper: “Financial Networks: Inspecting Effects of Topological Features on Stock Overreaction Using Graph Machine Learning"
+
+## Chicago University, Fintech
+
+- Jan 2022 – Feb 2022
+- Chicago, USA
+- Discussed effects of blockchain technology on financial markets
+
+# Projects
+
+## Spotify Pop Playlists Exploration
+
+- [github repository](https://github.com/adamwadolowski/spotify-playlists-EDA)
+- Collected, cleaned and stored in a relational database playlists data collected from Spotify API. Using the grammar of graphics concepts, I made visualizations of interesting findings
+- Tools Used: pandas, SQL, lets-plot, Spotify API
+
+## IMC Prosperity Challange
+
+- In a team of 5, we developed a trading strategy based on the analysis of historical data and the order book
+- We secured 281st place out of 9 139 teams, positioning ourselves in the top 3% of all participants
