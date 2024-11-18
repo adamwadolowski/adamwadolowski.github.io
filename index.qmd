@@ -8,7 +8,7 @@ title: "Main page"
 
 <img src="/images/adam-wadolowski.jpg" alt="Photo of Adam Wądołowski" class="img-responsive atto_image_button_text-bottom" role="presentation" style="object-fit: cover;width:10em;height:10em;border-radius: 50%;font-size:1em;"/>
 
-<figcaption><strong> <a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva" target="_blank" class="external">Adam Wądołowski</a></strong> <br/>Intern at <a href="https://www.datacation.nl/en/" target="_blank" class="external">Datacation</a> <br/>Econometrics student at <a href="https://www.eur.nl/en" target="_blank" class="external">Erasmus University</a></figcaption>
+<figcaption><strong> <a href="https://www.linkedin.com/in/adam-wadolowski/" target="_blank" class="external">Adam Wądołowski</a></strong> <br/>Intern at <a href="https://www.datacation.nl/en/" target="_blank" class="external">Datacation</a> <br/>Econometrics student at <a href="https://www.eur.nl/en" target="_blank" class="external">Erasmus University</a></figcaption>
 
 </figure>
 :::
